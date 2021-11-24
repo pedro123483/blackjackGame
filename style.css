@@ -1,0 +1,47 @@
+body{
+
+    text-align: center;
+    font-size: 50px;
+    background-image: url(./table.jpg);
+    font-family: 'Trebuchet MS';
+    background-size: cover;
+    font-weight: bold;
+}
+
+h1{
+
+    color: gold;
+}
+
+p{
+
+    color: white;
+}
+
+#start{
+
+    width: 250px;
+    height: 50px;
+    color: #016f32;
+    background: gold;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#new{
+
+    width: 250px;
+    height: 50px;
+    color: #016f32;
+    background: gold;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
